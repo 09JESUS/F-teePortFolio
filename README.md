@@ -1,4 +1,3 @@
-![Screenshot](F-teeFolio Image.png)
 Cybersecurity Enthusiast & Developer
 I'm a final year Information Technology student at North-West University (NWU), specializing in cybersecurity and software development. My passion lies in creating secure, efficient solutions that solve real-world problems.
 
